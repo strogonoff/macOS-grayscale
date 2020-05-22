@@ -1,8 +1,11 @@
 An executable that forces display to grayscale on macOS.
 
-Based on
-`StackExchange post by Lucas Wiman <https://apple.stackexchange.com/a/342551/1199>`_.
+This repo exists so that I don’t forget it next time I set up a Mac.
 
+Based on
+`StackExchange post by Lucas Wiman <https://apple.stackexchange.com/a/342551/1199>`_
+(see also `this one <https://apple.stackexchange.com/a/342570/1199>`_
+on enabling grayscale effect based on current app).
 
 Why
 ===
