@@ -28,3 +28,9 @@ Compiler::
     Target: x86_64-apple-darwin19.4.0
     Thread model: posix
     InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+
+Known issues
+============
+
+When using multiple displays, switching to an application window on another display
+may cause grayscale to be turn off.
