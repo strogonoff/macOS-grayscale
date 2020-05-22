@@ -1,5 +1,18 @@
 An executable that forces display to grayscale on macOS.
 
+Why
+===
+
+* Works together with color inversion.
+
+* Can be assigned a keyboard shortcut.
+
+As of Catalina, the above is impossible with native macOS
+accessibility options.
+
+Usage
+=====
+
 To compile, run ``make toggle-grayscale``.
 
 To assign it a shortcut:
