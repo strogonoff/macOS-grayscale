@@ -46,5 +46,4 @@ Compiler::
 Known issues
 ============
 
-When using multiple displays, switching to an application window on another display
-may cause the grayscale effect to be lost.
+Losing grayscale when switching to another display (`Issue<https://github.com/strogonoff/macOS-grayscale/issues/1>`_).
