@@ -46,4 +46,4 @@ Compiler::
 Known issues
 ============
 
-Losing grayscale when switching to another display: `Issue<https://github.com/strogonoff/macOS-grayscale/issues/1>`_.
+Losing grayscale when switching to another display: `Issue <https://github.com/strogonoff/macOS-grayscale/issues/1>`_.
