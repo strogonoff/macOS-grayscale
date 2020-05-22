@@ -1,5 +1,9 @@
 An executable that forces display to grayscale on macOS.
 
+Based on
+`StackExchange post by Lucas Wiman <https://apple.stackexchange.com/a/342551/1199>`_.
+
+
 Why
 ===
 
@@ -26,9 +30,6 @@ To assign it a shortcut:
        do shell script "~/bin/toggle-grayscale"
 
 3. Assign preferred shortcut to that action in keyboard preferences.
-
-Based on
-`StackExchange post by Lucas Wiman <https://apple.stackexchange.com/a/342551/1199>`_.
 
 Tested with
 ===========
