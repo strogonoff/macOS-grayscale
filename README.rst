@@ -46,4 +46,4 @@ Known issues
 ============
 
 When using multiple displays, switching to an application window on another display
-may cause grayscale to be turn off.
+may cause the grayscale effect to be lost.
