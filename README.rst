@@ -39,7 +39,7 @@ To assign it a shortcut:
 Tested with
 ===========
 
-OS: macOS Catalina 10.15.4
+OS: macOS Catalina 10.15.5
 
 Compiler::
 
