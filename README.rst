@@ -51,4 +51,6 @@ Compiler::
 Known issues
 ============
 
+Turning grayscale on and off this way does not toggle the Accessibility checkbox in Preferences.
+
 Losing grayscale when switching to another display: `Issue <https://github.com/strogonoff/macOS-grayscale/issues/1>`_.
