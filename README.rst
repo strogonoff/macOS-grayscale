@@ -7,6 +7,8 @@ Based on
 (see also `this one <https://apple.stackexchange.com/a/342570/1199>`_
 on enabling grayscale effect based on current app).
 
+Licensed under CC BY-SA 4.0 like StackExchange requires.
+
 Why
 ===
 
